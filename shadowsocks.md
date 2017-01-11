@@ -58,13 +58,13 @@ Add SSH key successfully.
 #### create droplet
 下一步我们就可以开始创建dropletle,
 在首页右上角点击Create Deoplet  
-<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_1.PNG" />  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_1.PNG" />  
 在这里我们选择droplet的Linux发行版，配置，vps机房的国家位置。
 我们在Add your SSH keys中勾选我们添加的Xshell.  
 
-<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_1.PNG" />  
-最后，点击create 就可以创建一个droplet了。  
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_2.PNG" />  
+最后，点击create 就可以创建一个droplet了。  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail.PNG" />  
 创建完回到droplets,就可以看到droplets列表，在这里，我们可以看到droplet的名字、状态、主机IP地址、和启动时间。  
 
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail_2.PNG" />  
