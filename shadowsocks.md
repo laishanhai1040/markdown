@@ -61,6 +61,11 @@ Add SSH key successfully.
 在首页右上角点击Create Deoplet  
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_1.PNG" />  
 在这里我们选择droplet的Linux发行版，配置，vps机房的国家位置。
+对于机房位置的选择，DO有一个全球各个机房的测速网站<a href='http://speedtest-sgp1.digitalocean.com/'>测速网站</a>，
+我们可以先用自己常用的网络测速，选择一个网络延迟最小的、网络速度较好的机房位置，
+在这里是强调一下网络延迟，xshell默认延迟是300ms，当连接主机时延迟大于300ms时会连不上，虽然可以更改xshell设置大于300ms，不过这样
+在终端输命令时延迟大也会影响使用，使用shadowsocks代理以后浏览网页也要点了等很久才有反应。一般延迟小的节点速度都不会很慢。  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/DO_speedtest_sgp.PNG" />  
 我们在Add your SSH keys中勾选我们添加的Xshell.  
 
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_2.PNG" />  
