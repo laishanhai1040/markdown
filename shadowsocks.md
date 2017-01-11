@@ -67,7 +67,7 @@ Add SSH key successfully.
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_list.PNG" />  
 创建完回到droplets,就可以看到droplets列表，在这里，我们可以看到droplet的名字、状态、主机IP地址、和启动时间。  
 
-<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail.PNG" />  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail_2.PNG" />  
 点击进去后可以看到详细的运行状态，在这里我们在这里创建snapshots.  
 
 到这里vps就创建好了。  
