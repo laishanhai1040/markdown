@@ -47,7 +47,7 @@ ssh客户端连接服务器有两种方式，一种是使用ssh key连接，另�
 我们用新注册的账户登录上DO，点击账户-setting-security
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/add_sshkey_to_DO.PNG" />  
 我们点击Add SSH Key就可以添加ssh key了  
-<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/add_sshkey_to_DO_2.PNG" />  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/add_sshkey_to_DO_4.PNG" />  
 我们把创建的ssh key那一串字符完整的复制到SSH key content这一框中，
 在name这一框中输入一些xshell,然后点击蓝色的Add SSH Key，网页便会提示
 Add SSH key successfully.  
