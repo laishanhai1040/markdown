@@ -1,7 +1,7 @@
 ---
 title: 使用Digital Ocean创建shadowsocks连接
 date: 2017/01/10
-tags: shadowsocks 'Digital ocean'
+tags: shadowsocks
 ---
 
 # 使用Digital Ocean的新加坡droplet
