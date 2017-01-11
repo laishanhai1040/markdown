@@ -10,8 +10,13 @@ debian 8.6
 shadowsocks
 
 ## Digital Ocean
-现在比较出名的vps服务商有Amazon web services和Linode和Digital Ocean.  
-Amazon web service看官网有新注册免费使用一年的套餐，不过因为本人没有信用卡只能放弃.  
+现在比较出名的vps服务商有
+<a href='https://aws.amazon.com'>Amazon web services </a>和
+<a href='https://www.linode.com/'>Linode </a>和
+<a href='https://www.digitalocean.com/'>Digital Ocean </a>.  
+Amazon web service看官网有新注册免费使用一年的
+<a href='https://aws.amazon.com/cn/free/?sc_channel=PS&sc_campaign=acquisition_CN&sc_publisher=baidu&sc_medium=cloud_computing_b&sc_content=aws_e&sc_detail=aws_708&sc_category=cloud_computing_b&sc_segment=708&sc_matchtype=phrase&sc_country=CN&s_kwcid=AL!4422!88!5293109925!!16914971671&ef_id=WGUnMgAABMpVQg5w:20170111074724:s'>免费套餐 </a>
+套餐，不过因为本人没有信用卡只能放弃.  
 Linode没有使用过，不做评价。  
 现在用的是Digital Ocean,选用最低配置一个月5美元，
 这配置用来做shadowsocks服务器也绰绰有余了，
@@ -22,6 +27,8 @@ Linode没有使用过，不做评价。
 就可以使用，支付时的美元折算成人民币根据当天的汇率计算。  
 新用户注册DO时，使用网友的分享链接，注册完会有$10的奖励，同时分享的网友可以获得奖励，
 这种奖励机制在各个vps服务商都有。  
+在这里也附上我的
+<a href='https://m.do.co/c/3089c71e176d'>分享链接: https://m.do.co/c/3089c71e176d</a>  
 注册后充值$5就可以新建一个vps了.  
 在DO这里，一个vps叫做droplet，大概是水滴的意思。
 在新建新的droplet之前还有一个步骤，就是在电脑上创建SSH key.  
