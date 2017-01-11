@@ -64,7 +64,7 @@ Add SSH key successfully.
 
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/create_droplet_detail_2.PNG" />  
 最后，点击create 就可以创建一个droplet了。  
-<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail.PNG" />  
+<img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_list.PNG" />  
 创建完回到droplets,就可以看到droplets列表，在这里，我们可以看到droplet的名字、状态、主机IP地址、和启动时间。  
 
 <img src="http://1040563090.oss-cn-shenzhen.aliyuncs.com/markdown/20170110_shadowsocks/droplet_detail_2.PNG" />  
