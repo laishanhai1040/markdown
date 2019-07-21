@@ -1,3 +1,13 @@
+---
+title: Linux environment setup
+date: 2019-07-21 13:39:14
+tags:  linux, vim
+description: linux environment setup
+keyword: linux, vim,
+comment: true
+categories: Blog
+---
+
 # Linux environment setup
 ## directory colors
 install git
