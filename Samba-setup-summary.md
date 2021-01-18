@@ -145,8 +145,4 @@ root@raspberry:~ # usermod -aG sudo username
 
 ## 使用效果
 
-在Windows使用运行(快捷键win+R)输入\\\192.168.1.100(目标主机IP),回车，如图
-<img src='http://1040563090.oss-cn-shenzhen.aliyuncs.com/website/samba_config_1.PNG' />
-<br />
-<br />
-<img src='http://1040563090.oss-cn-shenzhen.aliyuncs.com/website/samba_config_2.PNG' />
+在Windows使用运行(快捷键win+R)输入\\\192.168.1.100(目标主机IP),回车.
